@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm willianqym77292
 
-<!--
-**willianqym77292/willianqym77292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏒 🎱 🥋 Innovating in the field of technologies 🏒 🎱 🥋
 
-Here are some ideas to get you started:
+## About Me
+🏏 🚵 ✨ 🎣 A professional in cloud computing 🏏 🚵 ✨ 🎣
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎯 🎾 Hacking on startup culture 🎯 🎾
+
+### Fun Facts
+🎷 🎣 🎹 🌟 Creating amazing things with blockchain 🎷 🎣 🎹 🌟
+
+---
+🔥 🏑 🌍 🎱 🎱 Thanks for visiting my profile! 🎪 🎣 🏑 🎣 🎣
